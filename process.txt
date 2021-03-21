@@ -1,0 +1,28 @@
+To create react app:
+npx create-react-app whatsapp-mern
+
+Set up firebase(for deploying frontend anf for backend-heroku)
+Go to console->whatsapp-mern->no google analytics
+web->whatsapp-mern->also setup hosting->register the app
+click next
+npm install -g firebase-tools->next
+Continue to console
+
+D:\Useless\Whatsapp clone\whatsapp-mern>npm start(localhost:3000)
+
+Cleanup of code
+Delete 
+App.test.js
+logo.svg
+setupTest.js
+
+Frontend=>react
+Firebase: authentication, hosting
+
+backend
+Express.js,node.js,mongodb
+
+pusher, mongodb changer=>For real time chat
+
+npm install @material-ui/core
+npm install @material-ui/icons
